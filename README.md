@@ -8,7 +8,7 @@ Web and mobile developer passionate about React and React Native. Creating incre
 
 * 🌍  I'm based in Recife, Pernambuco - Brazil
 * ✉️  You can contact me at [sidneylimadev@gmail.com](mailto:sidneylimadev@gmail.com)
-* 🧠  I'm learning Node/Prisma
+* 🧠  I'm learning Node
 * 🤝  I'm open to collaborating on Interesting projects and things that improve the world
 * ⚡  I'm extremely addicted to jelly beans
 
