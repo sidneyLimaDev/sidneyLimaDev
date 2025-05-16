@@ -26,14 +26,3 @@ Web and mobile developer passionate about React and React Native. Creating incre
 
 
 
-Type [your text here...](qewqeq)
-
-# Main Title
-
-<div align="center">
-
-[Link text](https://github.com)
-
-
-</div>
-
