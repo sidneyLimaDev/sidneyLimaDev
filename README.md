@@ -31,7 +31,7 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 </table>
 
 
-## ⚙️ Frameworks
+### ⚙️ Frameworks
 <table>
   <tr>
     <td align="center" width="12%">
@@ -70,7 +70,7 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 </table>
 
 
-## 🧩 Plataformas, Bibliotecas e Outros  
+### 🧩 Plataformas, Bibliotecas e Outros  
 <table>
   <tr>
     <td align="center" width="12%">
