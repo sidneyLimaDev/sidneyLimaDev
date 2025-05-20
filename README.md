@@ -9,14 +9,15 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
 <img src="https://readme.zimeo.com.br/skills/java.svg" alt="Java" width="40" height="40"/>
-<span>Java</span>
+<img src="https://readme.zimeo.com.br/skills/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://readme.zimeo.com.br/skills/typescript.svg" alt="TypeScript" width="40" height="40"/>
 </div>
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
-<img src="https://readme.zimeo.com.br/skills/javascript.svg" alt="JavaScript" width="40" height="40"/>
+
 <span>JavaScript</span>
 </div>
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
-<img src="https://readme.zimeo.com.br/skills/typescript.svg" alt="TypeScript" width="40" height="40"/>
+
 <span>TypeScript</span>
 </div>
 </div>
