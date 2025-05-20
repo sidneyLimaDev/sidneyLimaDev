@@ -71,6 +71,94 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 
 
 ## 🧩 Plataformas, Bibliotecas e Outros  
+<table>
+  <tr>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/azure.svg" width="40" height="40" alt="Azure" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/gcp.svg" width="40" height="40" alt="GCP" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/android-studio.svg" width="40" height="40" alt="Android Studio" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/redis.svg" width="40" height="40" alt="Redis" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/jest.svg" width="40" height="40" alt="Jest" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/cypress.svg" width="40" height="40" alt="Cypress" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/tailwindcss.svg" width="40" height="40" alt="TailwindCSS" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/chakra.svg" width="40" height="40" alt="Chakra" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Azure</b>
+    </td>
+    <td align="center">
+      <b>GCP</b>
+    </td>
+    <td align="center">
+      <b>Android Studio</b>
+    </td>
+    <td align="center">
+      <b>Redis</b>
+    </td>
+    <td align="center">
+      <b>Jest</b>
+    </td>
+    <td align="center">
+      <b>Cypress</b>
+    </td>
+    <td align="center">
+      <b>TailwindCSS</b>
+    </td>
+    <td align="center">
+      <b>Chakra</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/git.svg" width="40" height="40" alt="Git" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/github-actions.svg" width="40" height="40" alt="GitHub Actions" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/docker.svg" width="40" height="40" alt="Docker" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/mongodb.svg" width="40" height="40" alt="MongoDB" />
+    </td>
+    <td align="center" width="12%">
+      <img src="https://readme.zimeo.com.br/skills/postgresql.svg" width="40" height="40" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <b>GitHub Actions</b>
+    </td>
+    <td align="center">
+      <b>Docker</b>
+    </td>
+    <td align="center">
+      <b>MongoDB</b>
+    </td>
+    <td align="center">
+      <b>PostgreSQL</b>
+    </td>
+  </tr>
+</table>
 
 
 
