@@ -5,7 +5,7 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 ## 🚀 Tech Stack
 
 ### 🧠 Linguagens
-<div align="center">
+<div>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
 <img src="https://readme.zimeo.com.br/skills/java.svg" alt="Java" width="40" height="40"/>
@@ -24,7 +24,7 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 
 
 ## ⚙️ Frameworks
-<div align="center">
+<div>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
 <img src="https://readme.zimeo.com.br/skills/react.svg" alt="React" width="40" height="40"/>
@@ -51,7 +51,7 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 
 
 ## 🧩 Plataformas, Bibliotecas e Outros  
-<div align="center">
+<div>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
 <img src="https://readme.zimeo.com.br/skills/azure.svg" alt="Azure" width="40" height="40"/>
@@ -111,7 +111,7 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 
 ## 📫 Onde me encontrar
 
-<div align="center">
+<div>
 <a href="https://www.linkedin.com/in/sidneylima/" target="_blank">
 <img src="https://readme.zimeo.com.br/social/linkedin.svg" alt="Linkedin" width="40" height="40" style="margin: 0 10px;"/>
 </a>
