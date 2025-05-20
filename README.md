@@ -7,13 +7,13 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 ### 🧠 Linguagens
 <table>
   <tr>
-    <td align="center" width="12%">
+    <td align="center" >
       <img src="https://readme.zimeo.com.br/skills/java.svg" width="40" height="40" alt="Java" />
     </td>
-    <td align="center" width="12%">
+    <td align="center" >
       <img src="https://readme.zimeo.com.br/skills/javascript.svg" width="40" height="40" alt="JavaScript" />
     </td>
-    <td align="center" width="12%">
+    <td align="center">
       <img src="https://readme.zimeo.com.br/skills/typescript.svg" width="40" height="40" alt="TypeScript" />
     </td>
   </tr>
