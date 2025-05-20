@@ -1,28 +1,117 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sidney Lima
-===================================================================================================================================
+# Oi, eu sou Sidney👋 
 
-Web and Mobile Developer
-------------------------
+Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com desenvolvimento. 
 
-Web and mobile developer passionate about React and React Native. Creating incredible digital experiences. let's collaborate!
+## 🚀 Tech Stack
 
-* 🌍  I'm based in Recife, Pernambuco - Brazil
-* ✉️  You can contact me at [sidneylimadev@gmail.com](mailto:sidneylimadev@gmail.com)
-* 🧠  I'm learning Node
-* 🤝  I'm open to collaborating on Interesting projects and things that improve the world
-* ⚡  I'm extremely addicted to jelly beans
+### 🧠 Linguagens
 
-### Skills
+<div align="center">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/java.svg" alt="Java" width="40" height="40"/>
+<span>Java</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/javascript.svg" alt="JavaScript" width="40" height="40"/>
+<span>JavaScript</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/typescript.svg" alt="TypeScript" width="40" height="40"/>
+<span>TypeScript</span>
+</div>
+</div>
+</div>
 
+## ⚙️ Frameworks
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+<div align="center">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/react.svg" alt="React" width="40" height="40"/>
+<span>React</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/spring.svg" alt="Spring" width="40" height="40"/>
+<span>Spring</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/nextjs.svg" alt="NextJS" width="40" height="40"/>
+<span>NextJS</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/nodejs.svg" alt="Nodejs" width="40" height="40"/>
+<span>Nodejs</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/express.svg" alt="Express" width="40" height="40"/>
+<span>Express</span>
+</div>
+</div>
+</div>
 
+## 🧩 Plataformas, Bibliotecas e Outros  
 
-### Socials
+<div align="center">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/azure.svg" alt="Azure" width="40" height="40"/>
+<span>Azure</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/gcp.svg" alt="GCP" width="40" height="40"/>
+<span>GCP</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/android-studio.svg" alt="Android Studio" width="40" height="40"/>
+<span>Android Studio</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/redis.svg" alt="Redis" width="40" height="40"/>
+<span>Redis</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/jest.svg" alt="Jest" width="40" height="40"/>
+<span>Jest</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
+<span>TailwindCSS</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/chakra.svg" alt="Chakra" width="40" height="40"/>
+<span>Chakra</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/git.svg" alt="Git" width="40" height="40"/>
+<span>Git</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/github-actions.svg" alt="GitHub Actions" width="40" height="40"/>
+<span>GitHub Actions</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/docker.svg" alt="Docker" width="40" height="40"/>
+<span>Docker</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+<span>MongoDB</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+<span>PostgreSQL</span>
+</div>
+</div>
+</div>
 
-<p align="left"> <a href="https://www.linkedin.com/in/sidneylima" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Sidneylima404" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@Sid_Dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg)https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+## 📫 Onde me encontrar
 
-
-
+<div align="center">
+<a href="https://www.linkedin.com/in/sidneylima/" target="_blank">
+<img src="https://readme.zimeo.com.br/social/linkedin.svg" alt="Linkedin" width="40" height="40" style="margin: 0 10px;"/>
+</a>
+<a href="mailto:sidneylimadev@gmail.com" target="_blank">
+<img src="https://readme.zimeo.com.br/social/gmail.svg" alt="Email" width="40" height="40" style="margin: 0 10px;"/>
+</a>
+</div>
