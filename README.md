@@ -5,7 +5,6 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 ## 🚀 Tech Stack
 
 ### 🧠 Linguagens
-
 <div align="center">
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
@@ -23,8 +22,8 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 </div>
 </div>
 
-## ⚙️ Frameworks
 
+## ⚙️ Frameworks
 <div align="center">
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
@@ -50,8 +49,8 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 </div>
 </div>
 
-## 🧩 Plataformas, Bibliotecas e Outros  
 
+## 🧩 Plataformas, Bibliotecas e Outros  
 <div align="center">
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px;">
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
@@ -73,6 +72,10 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
 <img src="https://readme.zimeo.com.br/skills/jest.svg" alt="Jest" width="40" height="40"/>
 <span>Jest</span>
+</div>
+<div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
+<img src="https://readme.zimeo.com.br/skills/cypress.svg" alt="Cypress" width="40" height="40"/>
+<span>Cypress</span>
 </div>
 <div style="display: inline-flex; align-items: center; gap: 5px; margin: 0 10px;">
 <img src="https://readme.zimeo.com.br/skills/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
@@ -105,6 +108,7 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 </div>
 </div>
 
+
 ## 📫 Onde me encontrar
 
 <div align="center">
@@ -115,3 +119,11 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
 <img src="https://readme.zimeo.com.br/social/gmail.svg" alt="Email" width="40" height="40" style="margin: 0 10px;"/>
 </a>
 </div>
+
+
+
+
+
+
+
+
