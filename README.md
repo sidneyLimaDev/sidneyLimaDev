@@ -1,53 +1,32 @@
-# Oi, eu sou Sidney👋 
+# Oi, eu sou Sidney👋
 
-Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com desenvolvimento. 
+Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com desenvolvimento.
 
 ## 🚀 Tech Stack
 
 ### 🧠 Linguagens
+
 <table>
   <tr>
-    <td align="center" >
-      <img src="https://readme.zimeo.com.br/skills/java.svg" width="40" height="40" alt="Java" />
-    </td>
-    <td align="center" >
-      <img src="https://readme.zimeo.com.br/skills/javascript.svg" width="40" height="40" alt="JavaScript" />
-    </td>
-    <td align="center">
-      <img src="https://readme.zimeo.com.br/skills/typescript.svg" width="40" height="40" alt="TypeScript" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Java</b>
-    </td>
-    <td align="center">
-      <b>JavaScript</b>
-    </td>
-    <td align="center">
-      <b>TypeScript</b>
-    </td>
-  </tr>
-</table>
-
 
 ### ⚙️ Frameworks
+
 <table>
   <tr>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/react.svg" width="40" height="40" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg" width="40" height="40" alt="React" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/spring.svg" width="40" height="40" alt="Spring" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/spring/default.svg" width="40" height="40" alt="Spring" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/nextjs.svg" width="40" height="40" alt="NextJS" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nextdotjs/default.svg" width="40" height="40" alt="NextJS" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/nodejs.svg" width="40" height="40" alt="Nodejs" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodedotjs/default.svg" width="40" height="40" alt="Nodejs" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/express.svg" width="40" height="40" alt="Express" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/express/default.svg" width="40" height="40" alt="Express" />
     </td>
   </tr>
   <tr>
@@ -69,33 +48,33 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
   </tr>
 </table>
 
+### 🧩 Plataformas, Bibliotecas e Outros
 
-### 🧩 Plataformas, Bibliotecas e Outros  
 <table>
   <tr>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/azure.svg" width="40" height="40" alt="Azure" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-azure-a/default.svg" width="40" height="40" alt="Azure" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/gcp.svg" width="40" height="40" alt="GCP" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/googlecloud/default.svg" width="40" height="40" alt="GCP" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/android-studio.svg" width="40" height="40" alt="Android Studio" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android-studio/default.svg" width="40" height="40" alt="Android Studio" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/redis.svg" width="40" height="40" alt="Redis" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/redis/default.svg" width="40" height="40" alt="Redis" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/jest.svg" width="40" height="40" alt="Jest" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/jest/default.svg" width="40" height="40" alt="Jest" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/cypress.svg" width="40" height="40" alt="Cypress" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cypress/default.svg" width="40" height="40" alt="Cypress" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/tailwindcss.svg" width="40" height="40" alt="TailwindCSS" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" width="40" height="40" alt="TailwindCSS" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/chakra.svg" width="40" height="40" alt="Chakra" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/chakra-ui/default.svg" width="40" height="40" alt="Chakra" />
     </td>
   </tr>
   <tr>
@@ -126,19 +105,19 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
   </tr>
   <tr>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/git.svg" width="40" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" width="40" height="40" alt="Git" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/github-actions.svg" width="40" height="40" alt="GitHub Actions" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-actions/default.svg" width="40" height="40" alt="GitHub Actions" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/docker.svg" width="40" height="40" alt="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" width="40" height="40" alt="Docker" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/mongodb.svg" width="40" height="40" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg" width="40" height="40" alt="MongoDB" />
     </td>
     <td align="center" width="12%">
-      <img src="https://readme.zimeo.com.br/skills/postgresql.svg" width="40" height="40" alt="PostgreSQL" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" width="40" height="40" alt="PostgreSQL" />
     </td>
   </tr>
   <tr>
@@ -160,32 +139,13 @@ Sou desenvolvedor **Full Stack**, com mais de **3 anos de experiência** com des
   </tr>
 </table>
 
-
-
 ## 📫 Onde me encontrar
 
 <div>
 <a href="https://www.linkedin.com/in/sidneylima/" target="_blank">
-<img src="https://readme.zimeo.com.br/social/linkedin.svg" alt="Linkedin" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" alt="Linkedin" width="40" height="40" style="margin: 0 10px;"/>
 </a>
 <a href="mailto:sidneylimadev@gmail.com" target="_blank">
-<img src="https://readme.zimeo.com.br/social/gmail.svg" alt="Email" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail/default.svg" alt="Email" width="40" height="40" style="margin: 0 10px;"/>
 </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
